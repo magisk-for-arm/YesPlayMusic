@@ -1,1 +1,8 @@
-
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://163.520403.xyz/:match*"
+    }
+  ]
+}
