@@ -23,7 +23,7 @@
   },
   "main": "background.js",
   "engines": {
-    "node": "14 || 18"
+    "node": "14 || 22"
   },
   "dependencies": {
     "@neteaseapireborn/api": "^4.29.7",
